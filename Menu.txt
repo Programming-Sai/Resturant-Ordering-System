@@ -1,0 +1,41 @@
+Burger,10.99
+Pasta,12.49
+Salad,7.99
+Pizza,14.99
+Steak,19.99
+Sushi,15.99
+Chicken Wings,8.99
+Fish Tacos,11.99
+Caesar Salad,9.49
+Fried Rice,10.99
+Grilled Chicken Sandwich,9.99
+Shrimp Scampi,16.49
+Vegetable Stir-Fry,11.49
+Chocolate Cake,6.99
+Mango Smoothie,4.99
+Eggplant Parmesan,13.79
+Lobster Bisque,8.29
+Cheese Quesadilla,7.49
+Clam Chowder,10.29
+Tuna Salad Sandwich,8.79
+French Onion Soup,6.49
+Beef Tacos,10.49
+Margherita Pizza,12.99
+Chicken Alfredo,13.99
+Shrimp and Grits,15.49
+Chocolate Brownie Sundae,5.99
+Vegetable Spring Rolls,6.49
+Caesar Wrap,9.29
+Baked Ziti,11.79
+Gyro Platter,14.99
+Spinach and Artichoke Dip,7.29
+Philly Cheesesteak,10.99
+Chicken Caesar Wrap,8.79
+Spaghetti Carbonara,12.49
+Tofu Stir-Fry,11.99
+Blueberry Pancakes,8.49
+BBQ Ribs,16.99
+Caprese Salad,9.79
+Beef and Broccoli,12.99
+Tiramisu,7.99
+Veggie Burger,10.49
